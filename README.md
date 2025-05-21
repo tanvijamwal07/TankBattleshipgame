@@ -58,12 +58,10 @@ A fast-paced, real-time terminal-based Tank BattleShip game built from scratch i
 
 ## 🎮 Gameplay Preview
 
-*(Add GIFs or screenshots here)*
-
----
+UPDATING SOON....!!!!
 
 ## 📂 How to Run
 
 ```bash
-gcc fast.c -o tank_game
+gcc main.c -o tank_game
 ./tank_game
